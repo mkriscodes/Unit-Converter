@@ -1,7 +1,7 @@
 body {
     margin: auto;
     text-align: center;
-    background-color: rgba(118, 108, 108, 0.439)
+    background-color: rgba(118, 108, 108, 0.439);
 }
 
 #title {
@@ -26,7 +26,7 @@ h1 {
 }
 
 #convert-btn {
-    background-color: gray;
+    background-color: rgba(118, 108, 108, 0.439);
     color: white;
     border: none;
     height: 40px;
